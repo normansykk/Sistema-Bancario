@@ -1,0 +1,22 @@
+{
+    "000": {
+        "nome": "cesar",
+        "senha": "123",
+        "saldo": 0
+    },
+    "": {
+        "nome": "",
+        "senha": "",
+        "saldo": 0
+    },
+    "1": {
+        "nome": "cesar",
+        "senha": "1",
+        "saldo": 0
+    },
+    "12345678901": {
+        "nome": "cliff",
+        "senha": "1234",
+        "saldo": 8.0
+    }
+}
