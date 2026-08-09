@@ -2,13 +2,13 @@
 
 Sistema bancário desenvolvido em **Python** para praticar conceitos fundamentais de programação e armazenamento de dados.
 
-## 📖 Sobre o projeto
+##  Sobre o projeto
 
 O **Banco do Futuro** é um sistema bancário executado pelo terminal, permitindo que o usuário crie e acesse uma conta e realize operações bancárias básicas.
 
 Os dados das contas são armazenados em um arquivo **JSON**, permitindo que as informações permaneçam salvas mesmo após o encerramento do programa.
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 -  Criar conta
 -  Acessar conta com CPF e senha
